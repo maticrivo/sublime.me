@@ -28,6 +28,7 @@
 		"draw_active"
 	],
 	"material_theme_contrast_mode": true,
+	"material_theme_small_tab": true,
 	"material_theme_tabs_separator": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
