@@ -28,7 +28,6 @@
 		"draw_active"
 	],
 	"material_theme_contrast_mode": true,
-	"material_theme_small_tab": true,
 	"material_theme_tabs_separator": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
@@ -37,7 +36,6 @@
 	],
 	"scroll_past_end": true,
 	"show_full_path": true,
-	"show_panel_on_build": false,
 	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
