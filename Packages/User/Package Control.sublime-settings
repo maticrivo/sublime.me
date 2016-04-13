@@ -9,6 +9,7 @@
 		"Autoprefixer",
 		"Babel",
 		"Better CoffeeScript",
+		"Color Highlighter",
 		"ColorPicker",
 		"DashDoc",
 		"DocBlockr",
@@ -17,17 +18,19 @@
 		"Emmet",
 		"Gist",
 		"Git",
-		"GitGutter",
+		"GitGutter-Edge",
 		"Indent XML",
 		"JsFormat",
 		"Material Theme",
 		"Package Control",
+		"RuboCop",
 		"SCSS",
+		"Seti_UI",
 		"SideBarEnhancements",
 		"sublime-github",
-		"SublimeLinter",
-		"SublimeLinter-contrib-standard",
-		"SublimeLinter-jshint",
-		"Themr"
+		"SyncedSideBar",
+		"Theme - Cobalt2",
+		"Themr",
+		"WakaTime"
 	]
 }
