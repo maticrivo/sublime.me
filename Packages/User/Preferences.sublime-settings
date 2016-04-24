@@ -1,5 +1,4 @@
 {
-	"always_show_minimap_viewport": true,
 	"auto_find_in_selection": true,
 	"bold_folder_labels": false,
 	"caret_extra_bottom": 1,
@@ -39,7 +38,9 @@
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"sidebar_font_big": false,
+	"sidebar_font_small": false,
 	"sidebar_large": false,
+	"soda_classic_tabs": false,
 	"soda_retina_fix": true,
 	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
