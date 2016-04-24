@@ -6,7 +6,7 @@
 	"caret_extra_top": 1,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-OceanicNext.tmTheme",
 	"draw_white_space": "selection",
 	"enable_tab_scrolling": true,
 	"ensure_newline_at_eof_on_save": true,
