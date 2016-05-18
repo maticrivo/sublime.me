@@ -9,7 +9,6 @@
 		"Autoprefixer",
 		"Babel",
 		"Better CoffeeScript",
-		"Color Highlighter",
 		"ColorPicker",
 		"DashDoc",
 		"DocBlockr",
@@ -22,15 +21,18 @@
 		"Indent XML",
 		"JsFormat",
 		"Material Theme",
+		"Origami",
 		"Package Control",
 		"RuboCop",
 		"SCSS",
 		"Seti_UI",
 		"SideBarEnhancements",
 		"sublime-github",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SyncedSideBar",
-		"Theme - Cobalt2",
 		"Themr",
+		"TodoReview",
 		"WakaTime"
 	]
 }
