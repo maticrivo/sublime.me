@@ -3,8 +3,26 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/Material-Theme-Darker-OceanicNext (SL).tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"Desktop.ini",
+		"*.pyc",
+		"._*",
+		"Thumbs.db",
+		".Spotlight-V100",
+		".Trashes"
+	],
 	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules"
+	],
 	"font_face": "Hack",
 	"font_options":
 	[
@@ -13,6 +31,7 @@
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -22,6 +41,8 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"match_brackets": true,
+	"match_brackets_angle": true,
 	"material_theme_compact_panel": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
@@ -36,7 +57,11 @@
 		120
 	],
 	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_line_endings": true,
 	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
