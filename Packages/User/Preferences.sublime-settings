@@ -28,7 +28,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 14,
+	"font_size": 18,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -58,6 +58,7 @@
 	],
 	"scroll_past_end": true,
 	"show_encoding": true,
+	"show_full_path": true,
 	"show_line_endings": true,
 	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
