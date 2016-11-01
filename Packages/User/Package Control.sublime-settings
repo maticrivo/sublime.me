@@ -7,6 +7,7 @@
 	[
 		"AdvancedNewFile",
 		"Autoprefixer",
+		"ayu",
 		"Babel",
 		"Better CoffeeScript",
 		"ColorPicker",
@@ -17,7 +18,7 @@
 		"Emmet",
 		"Gist",
 		"Git",
-		"GitGutter-Edge",
+		"GitGutter",
 		"Indent XML",
 		"JsFormat",
 		"Markdown Preview",
