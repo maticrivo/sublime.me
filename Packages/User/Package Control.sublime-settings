@@ -6,35 +6,14 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Autoprefixer",
 		"ayu",
 		"Babel",
-		"Better CoffeeScript",
-		"ColorPicker",
-		"DashDoc",
-		"DocBlockr",
-		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
-		"Gist",
-		"Git",
-		"GitGutter",
-		"Indent XML",
-		"JsFormat",
-		"Markdown Preview",
-		"Material Theme",
-		"Origami",
 		"Package Control",
-		"RuboCop",
-		"SCSS",
 		"SideBarEnhancements",
-		"sublime-github",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-contrib-stylelint",
-		"SyncedSideBar",
-		"Themr",
-		"TodoReview",
-		"WakaTime"
+		"SublimeLinter-contrib-stylelint"
 	]
 }
