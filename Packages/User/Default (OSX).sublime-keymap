@@ -27,7 +27,14 @@
     "keys": ["super+shift+;"],
     "command": "run_macro_file",
     "args": {
-      "file": "Packages/User/Macros/semicolon_newline.sublime-macro"
+      "file": "Packages/User/Macros/semicolon_eol.sublime-macro"
+    }
+  },
+  {
+    "keys": ["super+shift+,"],
+    "command": "run_macro_file",
+    "args": {
+      "file": "Packages/User/Macros/comma_eol.sublime-macro"
     }
   },
 
