@@ -8,12 +8,21 @@
 		"AdvancedNewFile",
 		"ayu",
 		"Babel",
+		"DashDoc",
+		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
+		"Git",
+		"GitGutter",
+		"JsFormat",
+		"Markdown Extended",
 		"Package Control",
+		"PlainTasks",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-contrib-stylelint"
+		"SublimeLinter-contrib-stylelint",
+		"SyncedSideBar"
 	]
 }
