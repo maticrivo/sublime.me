@@ -1,6 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/ayu/ayu.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"default_line_ending": "unix",
 	"file_exclude_patterns":
 	[
@@ -40,7 +40,8 @@
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "ayu.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"ui_big_tabs": true
 }
