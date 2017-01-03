@@ -10,7 +10,9 @@
 		"._*",
 		"Thumbs.db",
 		".Spotlight-V100",
-		".Trashes"
+		".Trashes",
+		"*.sublime-project",
+		"*.sublime-workspace"
 	],
 	"find_selected_text": true,
 	"folder_exclude_patterns":
