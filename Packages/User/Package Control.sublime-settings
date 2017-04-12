@@ -24,7 +24,6 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-stylelint",
-		"SyncedSideBar",
-		"Themr"
+		"SyncedSideBar"
 	]
 }
