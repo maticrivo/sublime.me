@@ -6,17 +6,26 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"apiDoc Autocompletion",
 		"ayu",
 		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Console Wrap",
+		"CSS3",
 		"DashDoc",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
+		"FindKeyConflicts",
 		"Git",
 		"GitGutter",
+		"GitSavvy",
+		"JavaScript & NodeJS Snippets",
 		"JsFormat",
 		"Markdown Extended",
+		"Markdown Preview",
 		"Package Control",
 		"PlainTasks",
 		"Sass",
@@ -24,6 +33,10 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-stylelint",
-		"SyncedSideBar"
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-json",
+		"SyncedSideBar",
+		"tern_for_sublime",
+		"TodoReview"
 	]
 }

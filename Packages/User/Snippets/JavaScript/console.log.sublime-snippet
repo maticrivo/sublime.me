@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-console.log('${1}', ${2});
-]]></content>
-	<tabTrigger>clog</tabTrigger>
-</snippet>
