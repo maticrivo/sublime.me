@@ -21,7 +21,6 @@
 		"FindKeyConflicts",
 		"Git",
 		"GitGutter",
-		"GitSavvy",
 		"JavaScript & NodeJS Snippets",
 		"JsFormat",
 		"Markdown Extended",
@@ -33,10 +32,8 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-stylelint",
-		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
 		"SyncedSideBar",
-		"tern_for_sublime",
 		"TodoReview"
 	]
 }
