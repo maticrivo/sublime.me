@@ -45,12 +45,16 @@
 	],
 	"indent_to_bracket": true,
 	"match_brackets_angle": false,
-	"rulers": [ 80 ],
+	"rulers":
+	[
+		80
+	],
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 2,
 	"theme": "ayu-dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"ui_big_tabs": true
+	"ui_big_tabs": true,
+	"word_wrap": false
 }
