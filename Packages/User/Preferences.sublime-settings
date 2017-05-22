@@ -23,7 +23,8 @@
 	[
 		".git",
 		"node_modules",
-		"bower_components"
+		"bower_components",
+		".next"
 	],
 	"font_face": "Hack",
 	"font_options":
