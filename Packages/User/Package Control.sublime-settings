@@ -32,6 +32,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-standard",
 		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-json",
 		"Super Calculator",
