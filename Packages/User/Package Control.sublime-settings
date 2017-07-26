@@ -22,6 +22,7 @@
 		"FindKeyConflicts",
 		"Git",
 		"GitGutter",
+		"Godef",
 		"GraphQL",
 		"JavaScript & NodeJS Snippets",
 		"JsFormat",

@@ -4,4 +4,5 @@ Local
 Index
 Installed Packages/*
 Packages/*
+!Packages/User/*
 Backup
