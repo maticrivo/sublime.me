@@ -3,7 +3,7 @@
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 0,
 	"auto_complete_with_fields": true,
-	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -53,7 +53,7 @@
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "ayu-dark.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"ui_big_tabs": true,
