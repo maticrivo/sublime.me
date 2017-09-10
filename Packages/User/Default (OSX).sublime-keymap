@@ -38,6 +38,14 @@
     }
   },
 
+  // Auto-pair curly brackets
+  { "keys": ["{"], "command": "insert_snippet", "args": {"contents": "{ ${0:$SELECTION} }"}, "context":
+    [
+      { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+      { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+    ]
+  },
+
   // Building
   {"keys": ["super+b"], "command": "build"},
   {"keys": ["super+shift+b"], "command": "build", "args": {"variant": "clean"}},

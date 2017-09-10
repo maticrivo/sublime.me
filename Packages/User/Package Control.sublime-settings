@@ -3,6 +3,10 @@
 	"in_process_packages":
 	[
 	],
+	"install_prereleases":
+	[
+		"PackageDev"
+	],
 	"installed_packages":
 	[
 		"A File Icon",
@@ -11,24 +15,27 @@
 		"apiDoc Autocompletion",
 		"ayu",
 		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"Console Wrap",
 		"CSS3",
 		"DashDoc",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
-		"FindKeyConflicts",
 		"Git",
 		"GitGutter",
 		"GitHubinator",
 		"Godef",
+		"GoSublime",
 		"GraphQL",
-		"JavaScript & NodeJS Snippets",
 		"JsFormat",
-		"Markdown Extended",
-		"Markdown Preview",
+		"JsPrettier",
+		"nginx",
 		"Package Control",
+		"PackageDev",
 		"PlainTasks",
 		"SideBarEnhancements",
 		"SublimeLinter",
@@ -37,6 +44,7 @@
 		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-json",
 		"SyncedSideBar",
-		"TodoReview"
+		"TodoReview",
+		"WakaTime"
 	]
 }
