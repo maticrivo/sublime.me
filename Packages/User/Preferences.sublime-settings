@@ -52,9 +52,9 @@
 	"scroll_past_end": true,
 	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"ui_big_tabs": true,
+	"ui_fix_tab_labels": true,
 	"word_wrap": false
 }
