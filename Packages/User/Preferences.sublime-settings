@@ -44,7 +44,6 @@
 		"draw_active"
 	],
 	"indent_to_bracket": true,
-	"match_brackets_angle": false,
 	"rulers":
 	[
 		100
@@ -55,6 +54,5 @@
 	"theme": "ayu-dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"ui_fix_tab_labels": true,
-	"word_wrap": false
+	"ui_fix_tab_labels": true
 }
